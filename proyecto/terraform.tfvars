@@ -2,7 +2,7 @@ cuenta           = "betek"
 proyecto         = "despliegue-ec2-betek-yennyfer"
 key_name         = "nombrekeypair-yennyfer"
 private_key_path = "./nombrekeypair.pem"
-vpc_id = "vpc-00f479057476a2db8"
+vpc_id           = "vpc-00f479057476a2db8"
 
 tags = {
   "enviroment"    = "dev"
