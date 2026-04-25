@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     defaults:
       run:
-        working-directory: ./proyecto  # <--- Apuntando a tu carpeta de código
+        working-directory: ./proyecto  # <---  carpeta de código
 
     steps:
       # 1. Clonar repo
